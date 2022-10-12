@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
     <entry loc="C:\java-1.8.0-openjdk-1.8.0.322-1.b06.ojdkbuild.windows.x86_64" stamp="1643365446000"/>
+    <entry loc="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.1.v20211116-1657" stamp="1638466012000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-11.0.13.jdk/Contents/Home" stamp="1631740794000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk1.8.0_311.jdk/Contents/Home" stamp="1632745897000"/>
     <entry loc="C:\Users\gusds\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre" stamp="1646659044292"/>
     <entry loc="C:\Users\gusds\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208" stamp="1646659044295"/>
+    <entry loc="/Users/hongseockkim/Library/Java/JavaVirtualMachines/corretto-11.0.13/Contents/Home" stamp="1640740450815"/>
+    <entry loc="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.1.v20211116-1657/jre" stamp="1638466012000"/>
+    <entry loc="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home" stamp="1632745252000"/>
 </dirs>

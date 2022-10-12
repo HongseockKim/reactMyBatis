@@ -4094,3 +4094,4 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis.s
 2022-03-16 00:37:10,733 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gusds\eclipse-workspace\MyReactProject\src\test\resources
 2022-03-16 19:21:37,937 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2022-03-17 23:43:13,047 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-18 11:04:59,863 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
